@@ -1,4 +1,4 @@
-💖🎉1. Calculator
+1. Calculator💖🎉
 The Calculator project is a simple yet functional web application that allows users to perform basic arithmetic operations. It is built using HTML, CSS, and JavaScript.
 Main Features
 User Interface: The calculator has a clean and intuitive user interface designed with HTML and CSS, providing a visually appealing experience.
