@@ -1,4 +1,4 @@
-1. Calculator
+💖🎉1. Calculator
 The Calculator project is a simple yet functional web application that allows users to perform basic arithmetic operations. It is built using HTML, CSS, and JavaScript.
 Main Features
 User Interface: The calculator has a clean and intuitive user interface designed with HTML and CSS, providing a visually appealing experience.
@@ -19,4 +19,4 @@ About Section: An introduction to the individual, including a brief bio, skills,
 Project Showcase: A dedicated section to display and highlight completed projects, with descriptions, images, and links.
 Contact Form: A contact form allowing visitors to get in touch with the individual for potential collaborations or inquiries.
 Responsive Design: The portfolio website is designed to be responsive, ensuring optimal viewing experience across different devices and screen sizes.
-Navigation: A user-friendly navigation menu allows visitors to easily navigate through the different sections of the portfolio.
+Navigation: A user-friendly navigation menu allows visitors to easily navigate through the different sections of the portfolio.✔🚀
